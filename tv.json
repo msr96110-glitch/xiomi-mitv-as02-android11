@@ -1,0 +1,6 @@
+{
+  "tv": "Xiaomi MiTV-AXSO2",
+  "os": "Android TV 11 (SDK 30), firmware PI.6432",
+  "brand": "Xiaomi",
+  "notes": "Disables PatchWall, Xiaomi/Google telemetry, sponsored rows, partner auto-installs and preloaded apps; keeps Google Assistant, Chromecast, Mi Cast/Share, Miracast and all streaming apps."
+}
